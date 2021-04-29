@@ -2,6 +2,10 @@
 
 Aplicación para realizar diversas actividades de gestión de pedidos de una carpintería. Entre estas actividades se incluye la creación, modificación y eliminación de pedidos, así como el filtrado para poder consultar los detalles de un pedido concreto, entre otras funcionalidades que se irán añadiendo según la necesidad.
 
+## Peticiones REST
+
+En este proyecto se utiliza Postman, por lo que todas las peticiones REST se encuentran documentadas en este [enlace](https://www.postman.com/altimetry-geoscientist-74135412/workspace/pedidosapp/overview).
+
 ## Tecnologías y herramientas
 
 - Postman: usado para lanzar peticiones rest, automatizar flujos de peticiones, realizar algunos tests y documentar.
