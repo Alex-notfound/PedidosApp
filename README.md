@@ -9,9 +9,7 @@ En este proyecto se utiliza Postman, por lo que todas las peticiones REST se enc
 ## Tecnologías y herramientas
 
 - Postman: usado para lanzar peticiones rest, automatizar flujos de peticiones, realizar algunos tests y documentar.
-- Modelio: usado para documentar el proyecto mediante diagramas (diagramas de clases,diagramas de casos de uso, de secuencia...).
-- DBeaver: cliente SQL con interfaz gráfica para manipular la base de datos.
-- Eclipse: entorno de desarrollo (IDE) empleado.
+- [Visual Paradigm Online](https://online.visual-paradigm.com): usado para documentar el proyecto mediante diagramas (diagramas de clases, diagramas de casos de uso, de secuencia...).
 
 ## Autoría
 Alexandre Currás Rodríguez [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alexandre-curras-rodriguez/)
