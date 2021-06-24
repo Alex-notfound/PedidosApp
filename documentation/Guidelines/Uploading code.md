@@ -14,8 +14,8 @@ It is created from main branch and will be merged to release branch when the cha
 
 ## Pull Requests (PRs)
 
-- **Title for a feature**: #`taskNumber` - feature: `Short title`
-- **Title for a fix**: #`taskNumber` - fix: `Short title`
+- **Title for a feature**: Resolves #`taskNumber` - feature: `Short title`
+- **Title for a fix**: Resolves #`taskNumber` - fix: `Short title`
 
 **Description** is optional.
 
