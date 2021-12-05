@@ -1,8 +1,11 @@
 <mat-toolbar color="primary" class="navbar">
     <div>
-        <span>Inicio</span>
+        <span><a routerLink="/orders" routerLinkActive="active">Inicio</a></span>
+        <span><a routerLink="/itemTypes" routerLinkActive="active">Catálogo</a></span>
         <span>Crear pedido</span>
     </div>
     <div>Ebony Design</div>
 </mat-toolbar>
-<app-orders-view></app-orders-view>
+
+<router-outlet></router-outlet>
+<!-- Routed views go here -->
