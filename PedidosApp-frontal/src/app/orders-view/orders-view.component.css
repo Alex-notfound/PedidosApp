@@ -1,0 +1,15 @@
+.full-width-table {
+  width: 100%;
+}
+
+.mat-row:nth-child(2n+1){
+  background-color: #e4f0ec;
+}
+.mat-row:not:nth-child(1n+1){
+  background-color:#ffffff;
+}
+
+th {
+  font-weight: bold;
+  font-size: large;
+}
