@@ -1,13 +1,11 @@
-<mat-toolbar color="primary" class="navbar">
-    <button mat-icon-button aria-label="menu"></button>
+<mat-toolbar color="#00701a7" class="navbar">
     <div>
-        <span><a mat-raised-button routerLink="/orders" routerLinkActive="active">Inicio</a></span>
-        <span><a mat-button routerLink="/itemTypes" routerLinkActive="active">Catálogo</a></span>
-        <span>Crear pedido</span>
+        <span><a mat-button routerLink="/orders" routerLinkActive="mat-accent">Inicio</a></span>
+        <span><a mat-button routerLink="/itemTypes" routerLinkActive="mat-accent">Catálogo</a></span>
+        <span><a mat-button routerLink="#" routerLinkActive="active">Crear pedido</a></span>
     </div>
     <div>Ebony Design</div>
 </mat-toolbar>
-<button mat-icon-button class="menu">Basic</button>
 
 <router-outlet></router-outlet>
 <!-- Routed views go here -->

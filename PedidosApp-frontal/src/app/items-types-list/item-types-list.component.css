@@ -3,7 +3,7 @@
 }
 
 .mat-row:nth-child(2n+1){
-  background-color: #e4f0ec;
+  background-color: #92d391;
 }
 .mat-row:not:nth-child(1n+1){
   background-color:#ffffff;

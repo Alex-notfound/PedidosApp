@@ -1,7 +1,12 @@
 .navbar {
     justify-content: space-between;
+    background-color: #00701a;
 }
 
 span {
     padding-right: 1rem;
+}
+
+.mat-accent {
+    color: white;
 }
